@@ -1,2 +1,2 @@
-# palimdromeFunction
+# palindromeFunction
 coursera solution
